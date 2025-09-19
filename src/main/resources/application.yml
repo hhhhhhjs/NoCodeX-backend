@@ -1,6 +1,12 @@
 spring:
   application:
     name: hhhhhhjs-ai-backend
+# 数据库连接池配置
+  datasource:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/NoCodeXdb
+      username: ${DB_USERNAME}
+      password: ${DB_PASSWORD}
 server:
   port: 1218
   servlet:
