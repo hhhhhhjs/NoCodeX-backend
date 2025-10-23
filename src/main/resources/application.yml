@@ -17,7 +17,7 @@ springdoc:
     - group: 'default'
       paths-to-match: '/**'
       packages-to-scan: com.example.aibyhhhhhhjs.controller # ???????
-# knife4j???????????????
+# knife4j 配置
 knife4j:
   enable: true
   setting:
