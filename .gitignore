@@ -12,6 +12,7 @@ target/
 .settings
 .springBeans
 .sts4-cache
+tmp
 
 ### IntelliJ IDEA ###
 .idea
@@ -34,3 +35,6 @@ build/
 
 # 环境变量配置文件
 .env
+
+# chatModel 配置文件
+application-local.yml

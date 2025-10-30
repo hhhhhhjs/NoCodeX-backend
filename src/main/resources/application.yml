@@ -7,6 +7,10 @@ spring:
       url: jdbc:mysql://localhost:3306/NoCodeXdb
       username: ${DB_USERNAME}
       password: ${DB_PASSWORD}
+
+# 激活本地配置文件
+  profiles:
+    active: local
 server:
   port: 1218
   servlet:
