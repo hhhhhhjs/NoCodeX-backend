@@ -1,4 +1,4 @@
-package com.example.aibyhhhhhhjs.controller.exception;
+package com.example.aibyhhhhhhjs.exception;
 
 public class ThrowUtils {
     /**

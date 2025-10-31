@@ -1,6 +1,6 @@
 package com.example.aibyhhhhhhjs.common;
 
-import com.example.aibyhhhhhhjs.controller.exception.ErrorCode;
+import com.example.aibyhhhhhhjs.exception.ErrorCode;
 import lombok.Data;
 
 import java.io.Serializable;

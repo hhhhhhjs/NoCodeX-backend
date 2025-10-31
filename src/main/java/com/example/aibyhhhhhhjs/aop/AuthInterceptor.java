@@ -2,8 +2,8 @@ package com.example.aibyhhhhhhjs.aop;
 
 
 import com.example.aibyhhhhhhjs.annotation.AuthCheck;
-import com.example.aibyhhhhhhjs.controller.exception.BusinessException;
-import com.example.aibyhhhhhhjs.controller.exception.ErrorCode;
+import com.example.aibyhhhhhhjs.exception.BusinessException;
+import com.example.aibyhhhhhhjs.exception.ErrorCode;
 import com.example.aibyhhhhhhjs.model.entity.User;
 import com.example.aibyhhhhhhjs.model.enums.UserRoleEnum;
 import com.example.aibyhhhhhhjs.service.UserService;

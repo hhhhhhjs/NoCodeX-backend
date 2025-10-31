@@ -1,6 +1,4 @@
-package com.example.aibyhhhhhhjs.controller.exception;
-
-import lombok.Getter;
+package com.example.aibyhhhhhhjs.exception;
 
 @lombok.Getter
 public class BusinessException extends RuntimeException {
