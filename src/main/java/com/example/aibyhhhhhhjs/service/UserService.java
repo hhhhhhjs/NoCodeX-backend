@@ -2,7 +2,7 @@ package com.example.aibyhhhhhhjs.service;
 
 import com.mybatisflex.core.query.QueryWrapper;
 import com.mybatisflex.core.service.IService;
-import com.example.aibyhhhhhhjs.model.dto.UserQueryRequest;
+import com.example.aibyhhhhhhjs.model.dto.user.UserQueryRequest;
 import com.example.aibyhhhhhhjs.model.entity.User;
 import com.example.aibyhhhhhhjs.model.vo.LoginUserVO;
 import com.example.aibyhhhhhhjs.model.vo.UserVO;

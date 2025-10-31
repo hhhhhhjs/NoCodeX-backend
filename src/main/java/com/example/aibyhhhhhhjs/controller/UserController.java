@@ -4,7 +4,7 @@ import cn.hutool.core.bean.BeanUtil;
 import com.example.aibyhhhhhhjs.annotation.AuthCheck;
 import com.example.aibyhhhhhhjs.constant.UserConstant;
 import com.example.aibyhhhhhhjs.exception.ErrorCode;
-import com.example.aibyhhhhhhjs.model.dto.*;
+import com.example.aibyhhhhhhjs.model.dto.user.*;
 import com.example.aibyhhhhhhjs.model.vo.LoginUserVO;
 import com.example.aibyhhhhhhjs.model.vo.UserVO;
 import com.mybatisflex.core.paginate.Page;

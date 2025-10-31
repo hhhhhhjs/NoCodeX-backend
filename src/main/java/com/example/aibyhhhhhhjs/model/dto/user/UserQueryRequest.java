@@ -1,4 +1,4 @@
-package com.example.aibyhhhhhhjs.model.dto;
+package com.example.aibyhhhhhhjs.model.dto.user;
 
 import com.example.aibyhhhhhhjs.common.PageRequest;
 import lombok.Data;

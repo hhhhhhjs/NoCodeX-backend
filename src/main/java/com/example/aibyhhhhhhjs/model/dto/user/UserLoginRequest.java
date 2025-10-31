@@ -1,4 +1,4 @@
-package com.example.aibyhhhhhhjs.model.dto;
+package com.example.aibyhhhhhhjs.model.dto.user;
 
 import lombok.Data;
 
